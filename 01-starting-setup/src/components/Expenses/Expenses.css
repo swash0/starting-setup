@@ -1,0 +1,30 @@
+.expenses {
+  padding: 2rem;
+  background-color: #dcdccf;
+  border-radius: 0.5rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
+
+.expense-item {
+  border: 1px solid #ccc;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.expense-item__description {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.expense-item__price {
+  font-size: 1rem;
+  color: #888;
+}
+
+.expense-item__date {
+  font-size: 1rem;
+  color: #888;
+}
